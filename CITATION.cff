@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: 'x402-Base: HTTP 402 Payment-Gated Routing on Base'
+version: 1.0.0
+date-released: '2026-07-09'
+type: software
+authors:
+  - family-names: Patterson
+    given-names: Richard
+    alias: De-ASI-INTERFACE
+    country: US
+repository-code: 'https://github.com/De-ASI-INTERFACE/x402-base-extension'
+license: MIT
+abstract: >-
+  x402 HTTP 402 payment-gated routing for Base (Coinbase OP Stack L2).
+  ERC-20/ETH payment gates, Smart Wallet (ERC-4337+EIP-1271) passkey auth,
+  Aerodrome Finance routing, nonce replay prevention, Lean 4 proofs.
+keywords: [base, coinbase, op-stack, erc4337, eip1271, aerodrome, x402, http-402, lean4, richard-patterson]
